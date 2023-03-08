@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../../../nodejs-express-sequelize-mysql"
+		},
+		{
+			"path": "../../../restful_api_2.0/app"
+		}
+	],
+	"settings": {}
+}
